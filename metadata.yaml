@@ -1,0 +1,27 @@
+_repo: Anteckningar-ofver-Falttagen-emot-Ryssland-aren-1808-och-1809_53972
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holm, Carl Johan
+    birthdate: 1781
+    deathdate: 1867
+    gutenberg_agent_id: '47649'
+    url: http://www.gutenberg.org/2009/agents/47649
+description: 'See also: Anmärkningar och nödvändiga Upplysningar vid Herr C. J. Holms
+  Anteckningar öfver Fälttågen emot Ryssland åren 1808 och 1809 / G. M. Adlercreutz,
+  #53971.'
+gutenberg_issued: '2017-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53972'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russo-Swedish War, 1808-1809 -- Personal narratives'
+- !lcsh 'Holm, Carl Johan, 1781-1867'
+- !lcc 'DL'
+- GITenberg
+title: Anteckningar öfver Fälttågen emot Ryssland åren 1808 och 1809
+url: http://www.gutenberg.org/ebooks/53972
